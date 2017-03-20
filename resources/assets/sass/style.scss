@@ -1,0 +1,51 @@
+@import "reset";
+
+.page-heading {
+    margin-left: 15px;
+}
+
+#select_band {
+    label {
+        width: 20%;
+    }
+}
+
+.inner {
+    padding: 15px;
+
+    table {
+        width: 100%;
+
+        thead {
+            padding-top: 10px;
+            th {
+                vertical-align: top;
+            }
+        }
+    }
+}
+
+.form-checkbox {
+    position: relative;
+    top: 2px;
+    left: 5px;
+}
+
+.success-message {
+    width: 25%;
+    //display: none;
+}
+
+.details {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#discography {
+    margin-bottom: 10px;
+
+    ul {
+        list-style: none;
+        margin-top: 5px;
+    }
+}
