@@ -1,4 +1,4 @@
-# ${1:My Favorite Bands}
+# My Favorite Bands
 
 ## Setup
 
